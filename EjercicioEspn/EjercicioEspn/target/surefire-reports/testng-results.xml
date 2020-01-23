@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="35826" started-at="2020-01-23T18:22:13 COT" finished-at="2020-01-23T18:22:49 COT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="35826" started-at="2020-01-23T18:22:13 COT" finished-at="2020-01-23T18:22:49 COT">
+      <class name="Test.PlayOffTest">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:Test.PlayOffTest@146ba0ac]" name="beforeTest" is-config="true" duration-ms="23046" started-at="2020-01-23T18:22:13 COT" finished-at="2020-01-23T18:22:36 COT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:Test.PlayOffTest@146ba0ac]" name="test1" duration-ms="11890" started-at="2020-01-23T18:22:36 COT" finished-at="2020-01-23T18:22:48 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.PlayOffTest@146ba0ac]" name="afterMethod" is-config="true" duration-ms="850" started-at="2020-01-23T18:22:48 COT" finished-at="2020-01-23T18:22:49 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Test.PlayOffTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
