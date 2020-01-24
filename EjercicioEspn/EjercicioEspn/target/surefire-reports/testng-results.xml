@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="49413" started-at="2020-01-23T21:07:15 COT" finished-at="2020-01-23T21:08:04 COT">
+  <suite name="Suite" duration-ms="31973" started-at="2020-01-24T10:10:55 COT" finished-at="2020-01-24T10:11:27 COT">
     <groups>
     </groups>
-    <test name="Test" duration-ms="49413" started-at="2020-01-23T21:07:15 COT" finished-at="2020-01-23T21:08:04 COT">
+    <test name="Test" duration-ms="31973" started-at="2020-01-24T10:10:55 COT" finished-at="2020-01-24T10:11:27 COT">
       <class name="Test.PlayOffTest">
-        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:Test.PlayOffTest@31dc339b]" name="beforeTest" is-config="true" duration-ms="34352" started-at="2020-01-23T21:07:15 COT" finished-at="2020-01-23T21:07:49 COT">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:Test.PlayOffTest@544fe44c]" name="beforeTest" is-config="true" duration-ms="21332" started-at="2020-01-24T10:10:55 COT" finished-at="2020-01-24T10:11:17 COT">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:Test.PlayOffTest@31dc339b]" name="test1" duration-ms="13796" started-at="2020-01-23T21:07:49 COT" finished-at="2020-01-23T21:08:03 COT">
+        <test-method status="PASS" signature="test1()[pri:0, instance:Test.PlayOffTest@544fe44c]" name="test1" duration-ms="9724" started-at="2020-01-24T10:11:17 COT" finished-at="2020-01-24T10:11:26 COT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.PlayOffTest@31dc339b]" name="afterMethod" is-config="true" duration-ms="1235" started-at="2020-01-23T21:08:03 COT" finished-at="2020-01-23T21:08:04 COT">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.PlayOffTest@544fe44c]" name="afterMethod" is-config="true" duration-ms="881" started-at="2020-01-24T10:11:26 COT" finished-at="2020-01-24T10:11:27 COT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
